@@ -1,0 +1,16 @@
+
+.color{
+    background-color: white;
+    text-align: center;
+}
+.card {
+    background-color: darkgoldenrod; // black
+    box-shadow: none;
+  }
+.horizontal-cards{
+    ion-card{
+        display:inline-block;
+        width: 256px;
+
+    }
+}
